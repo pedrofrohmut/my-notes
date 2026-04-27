@@ -1,0 +1,21 @@
+# How will AI change the world (Brain storming)
+
+
+1. The AI will break the code licenses. It will copy licensed code under one license
+and paste in another source code as the developer develops it as unlicensed code.
+Exp: You can have gpl licensed code copied by ai to your source code without even
+knowing about it. But to use gpl license your code have to be gpl licensed, therefore
+leading your code base to be breaking license, that ends up in a code base with legal
+problems.
+
+2. AI will also stop developing of libraries. Instead of a user reaching out for
+libraries, the dev using ai will just take the parts they want from the library in
+their code bases.
+  2.1. One of the problems with this approach is that soon or later those libraries
+  tend to be abandoned by lack of use, the code there will be legacy and no longer
+  be maintained. This will lead to AI, someday, to have nothing but legacy code to
+  copy.
+
+3. The good about AI in dev is that you dont have to reinvent the wheel on every
+new code base. But AI should be discorage on the inovations you are trying to do
+with code.
